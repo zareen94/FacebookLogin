@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "415820763178",
+    "firebase_url": "https://facebooklogin-82460.firebaseio.com",
+    "project_id": "facebooklogin-82460",
+    "storage_bucket": "facebooklogin-82460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415820763178:android:c4c573e48ffefdf9",
+        "android_client_info": {
+          "package_name": "com.example.yeen.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415820763178-lcc406tbspi2luk817th2uudhdici46p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yeen.facebooklogin",
+            "certificate_hash": "76c07d7d08704fb0ae38bc0ef8ed6b192c99ecdb"
+          }
+        },
+        {
+          "client_id": "415820763178-tft5q0d0ci3l96tfh2c1kqn9i8a03hun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDqJI-2uIWhfz5GzqjIR88IMOGdljSzsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415820763178-tft5q0d0ci3l96tfh2c1kqn9i8a03hun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
